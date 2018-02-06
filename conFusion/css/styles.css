@@ -10,21 +10,6 @@
     min-height: 400px;
 }
 
-.row-content1{
-    margin: 0px auto;
-    padding: 10px 0px 0px 0px;
-    border-bottom: 1px ridge;
-    min-height: 20px;
-}
-
-h2{
-    font-size: 31px;
-}
-
-h3{
-    font-size: 24px;
-}
-
 .jumbotron{
     padding: 70px 30px 70px 30px;
     margin: 0px auto;
